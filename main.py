@@ -1,0 +1,8 @@
+print('Hello!')
+x = int(input('Please, enter the first number: '))
+y = int(input('Enter the second number: '))
+print('The sum is:', (x + y))
+print('The difference is', (x - y))
+print('The product is', (x * y))
+print('The quotient is', (x / y))
+print('Thank you. Have a nice day!')
